@@ -1,0 +1,5 @@
+Cellulo
+
+Usage example:
+
+./cellulo.py data/40_with_some_ones_and_twos sum_mapped 20
